@@ -18,4 +18,6 @@
 
 ### git 추가 업로드 방법
 
--
+- git add .
+- git commit -m "second commit"
+- git push -u origin main
