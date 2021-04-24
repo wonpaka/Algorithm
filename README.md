@@ -8,7 +8,7 @@
 - git add .
 - git commit -m "first commit"
 
-만약 여기서 Author identity unknown 이 나온다면,
+##### 만약 여기서 Author identity unknown 이 나온다면,
 
 - git config --global user.email "you@example.com"
 - git config --global user.name "Your Name"
